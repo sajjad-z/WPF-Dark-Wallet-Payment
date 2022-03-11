@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet Payment", "Wallet Payment.csproj", "{EFAD141D-9488-4F09-8847-320C7FA3FA14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAD141D-9488-4F09-8847-320C7FA3FA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAD141D-9488-4F09-8847-320C7FA3FA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAD141D-9488-4F09-8847-320C7FA3FA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAD141D-9488-4F09-8847-320C7FA3FA14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC95009E-C624-450C-92D4-38AEBAA6BA7E}
+	EndGlobalSection
+EndGlobal
